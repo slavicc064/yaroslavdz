@@ -1,0 +1,1 @@
+﻿<div style="width: 200px; height: 300px; background: red; color: white; font-size: 24px; text-align: center">Русский</div>
